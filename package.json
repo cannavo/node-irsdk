@@ -1,5 +1,5 @@
 {
-  "name": "node-irsdk",
+  "name": "@live-sim-telemetry/node-irsdk",
   "version": "2.1.7",
   "description": "iRacing SDK implementation for Node.js",
   "main": "src/node-irsdk.js",
